@@ -1,2 +1,17 @@
-# qstudy
-Project to study the implementation of process noise in an Unscented Kalman Filter:  f(X, v), v = (0, Q)
+================================================================================
+================================================================================
+README.md
+
+qstudy
+------
+Project to study the implementation of process noise in an Unscented Kalman
+Filter:  f(X, v), v = (0, Q)
+================================================================================
+
+07/25/15:  Cloned from github:
+           git clone https://github.com/DavidLBruce/qstudy.git
+
+
+================================================================================
+================================================================================
+
